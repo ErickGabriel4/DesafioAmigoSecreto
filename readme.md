@@ -1,4 +1,4 @@
-2# Amigo Secreto
+# Amigo Secreto
 
 ## Descrição
 Este é um projeto simples de sorteio de **Amigo Secreto** desenvolvido com **HTML, CSS e JavaScript**. Ele permite adicionar nomes a uma lista, visualizar os participantes e sortear aleatoriamente um amigo secreto.
